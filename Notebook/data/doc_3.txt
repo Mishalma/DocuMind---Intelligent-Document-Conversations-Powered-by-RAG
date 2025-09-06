@@ -1,0 +1,8 @@
+
+    Payments API — Create Charge
+
+    POST /v1/charges  
+    Required: amount, currency, source.  
+    Optional: capture (boolean, default true).  
+    Response: JSON with id, amount, currency, status.  
+    

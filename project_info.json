@@ -1,0 +1,41 @@
+{
+  "name": "DocuMind",
+  "version": "1.0.0",
+  "description": "Intelligent Document Conversations Powered by RAG - Transform your documents into an intelligent conversational AI",
+  "author": "Your Name",
+  "license": "MIT",
+  "keywords": [
+    "RAG",
+    "chatbot",
+    "document-ai",
+    "langchain",
+    "chromadb",
+    "gemini",
+    "flask",
+    "vector-search",
+    "nlp",
+    "conversational-ai"
+  ],
+  "technologies": {
+    "backend": ["Flask", "LangChain", "ChromaDB"],
+    "ai_ml": ["Google Gemini", "Sentence Transformers", "HuggingFace"],
+    "frontend": ["HTML5", "CSS3", "JavaScript"],
+    "database": ["ChromaDB Vector Store"],
+    "deployment": ["Local", "Docker Ready"]
+  },
+  "features": [
+    "Natural language document querying",
+    "Vector-based semantic search",
+    "Real-time chat interface",
+    "Multi-document support",
+    "Context-aware responses",
+    "Mobile-responsive design"
+  ],
+  "use_cases": [
+    "HR Policy Documentation",
+    "Technical Documentation",
+    "Knowledge Base Management",
+    "Research Paper Analysis",
+    "Business Document Intelligence"
+  ]
+}

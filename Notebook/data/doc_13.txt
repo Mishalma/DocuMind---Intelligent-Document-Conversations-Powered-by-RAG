@@ -1,0 +1,8 @@
+
+    Billing FAQ
+
+    Q: Can I change my billing cycle?  
+    A: Yes, switch monthly ↔ annual anytime.  
+    Q: Do you offer invoices?  
+    A: Yes, downloadable PDFs under Billing → Invoices.  
+    

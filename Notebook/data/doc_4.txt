@@ -1,0 +1,8 @@
+
+    SQL Joins — Cheatsheet
+
+    INNER JOIN: rows with matches in both tables.  
+    LEFT JOIN: all rows from left + matches from right.  
+    RIGHT JOIN: all rows from right + matches from left.  
+    FULL OUTER JOIN: matched + unmatched from both.  
+    

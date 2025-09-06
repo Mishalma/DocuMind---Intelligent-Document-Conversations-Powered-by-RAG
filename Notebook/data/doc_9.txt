@@ -1,0 +1,6 @@
+
+    Incident Runbook — API Latency Spikes
+
+    Symptom: P95 latency > 1s for /v1/search.  
+    Mitigation: scale pods +1, warm cache with top queries, check DB CPU and cache hit ratio.  
+    

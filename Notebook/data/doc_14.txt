@@ -1,0 +1,15 @@
+
+    Python Retry with Exponential Backoff
+
+    import time, random  
+
+    def retry(fn, attempts=5, base=0.2, jitter=0.1):  
+        for i in range(attempts):  
+            try:  
+                return fn()  
+            except Exception:  
+                if i == attempts - 1:  
+                    raise  
+                sleep = base * (2 ** i) + random.uniform(0, jitter)  
+                time.sleep(sleep)  
+    

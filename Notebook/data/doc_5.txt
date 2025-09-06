@@ -1,0 +1,7 @@
+
+    Random Forest — Interview Notes
+
+    An ensemble of decision trees using bootstrap samples and feature subsampling.  
+    Reduces variance compared to single trees.  
+    Key parameters: n_estimators, max_depth, max_features.  
+    

@@ -1,0 +1,8 @@
+
+    Audit Logging — Admin Guide
+
+    Prerequisite: Admin role.  
+    Steps: Settings → Security → Audit Logs → Enable.  
+    Choose retention (30, 90, 365 days).  
+    Events: login, permission changes, exports.  
+    

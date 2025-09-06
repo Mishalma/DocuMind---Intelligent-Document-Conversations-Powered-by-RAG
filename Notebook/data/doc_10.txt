@@ -1,0 +1,8 @@
+
+    Smart Thermostat Quick Start
+
+    1) Turn off HVAC power.  
+    2) Label wires and mount base plate.  
+    3) Connect wires to terminals.  
+    4) Restore power and pair with mobile app.  
+    
